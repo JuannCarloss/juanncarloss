@@ -9,3 +9,5 @@
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
+
+![Juan Carlos github stats](https://github-readme-stats.vercel.app/api?username=juanncarloss&show_icons=true&hide_border=false&theme=highcontrast)&nbsp;&nbsp;
