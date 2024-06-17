@@ -1,5 +1,4 @@
 ![juanncarloss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=juanncarloss&theme=highcontrast&hide_border=false)
-![juanncarloss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanncarloss&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 ![Juan Carlos github stats](https://github-readme-stats.vercel.app/api?username=juanncarloss&show_icons=true&hide_border=false&theme=highcontrast)&nbsp;&nbsp;
 <h2>I love development, but I'll love it even more if it's: </h2>
 
