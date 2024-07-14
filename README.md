@@ -4,7 +4,7 @@
 - My name is Juan Carlos and I have 24yo.
 - Currently studying Systems Analysis and Development at SENAC - SC.
 - Passionate about Java Spring, but open to learning new technologies.
-- Currently learning Golang.
+- Currently learning Golang and NodeJS.
 
 <h1>Contact me.</h1>
 
