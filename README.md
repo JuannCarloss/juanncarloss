@@ -36,7 +36,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
-<h1>Profile Visitor Count</h1>
+<h1>Profile Visitor Count.</h1>
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/juanncarloss/count.svg"
