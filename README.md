@@ -4,7 +4,7 @@
 - Currently studying Systems Analysis and Development at SENAC - SC.
 - Passionate about Java and Spring Framework, but open to learning new technologies.
 - Currently learning Golang and NodeJS. 
- 
+  
 <h1>Contact me.</h1>
      
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juancbz/)](https://www.linkedin.com/in/juancbz/)
