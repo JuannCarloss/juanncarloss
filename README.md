@@ -1,5 +1,5 @@
 <h1>Hi folks. 👋</h1>
-    
+     
 - My name is Juan Carlos and I have 24yo.
 - Currently studying Systems Analysis and Development at SENAC - SC.
 - Passionate about Java and Spring Framework, but open to learning new technologies.
