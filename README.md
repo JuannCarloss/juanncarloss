@@ -5,7 +5,7 @@
 - Passionate about Java and Spring Framework, but open to learning new technologies.
 - Currently learning Golang and NodeJS. 
      
-<h1>Contact me.</h1>
+<h1>Contact me.</h1> 
      
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juancbz/)](https://www.linkedin.com/in/juancbz/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juancarlosbatistazeferino@gmail.com)](mailto:juancarlosbatistazeferino@gmail.com)
