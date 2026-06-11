@@ -1,9 +1,9 @@
 <h1>Hi folks. 👋</h1>
       
-- My name is Juan Carlos and I have 25yo.
+- My name is Juan Carlos and I have 26yo.
 - Graduated in Systems Analysis and Development at SENAC - SC.
-- Passionate about Java and Spring Framework, but open to learning new technologies.
-- Currently learning Golang and NodeJS. 
+- Passionate about Java and Golang, but open to learning new technologies.
+- Postgraduate student in Machine Learning - UTFPR. 
      
 <h1>Contact me.</h1> 
      
