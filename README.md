@@ -39,7 +39,7 @@
 <h1>Profile Visitor Count.</h1>
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/juanncarloss/count.svg"
+    src="https://komarev.com/ghpvc/?username=JuannCarloss&style=for-the-badge"
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
